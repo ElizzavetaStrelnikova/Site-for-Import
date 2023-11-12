@@ -1,0 +1,3 @@
+tmp/
+*_old
+*_backup
